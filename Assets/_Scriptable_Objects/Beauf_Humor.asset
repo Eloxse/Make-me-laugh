@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfafdec8aa663724fb59a2308cd1c52a, type: 3}
+  m_Name: Beauf_Humor
+  m_EditorClassIdentifier: 
+  accessCat: Beauf
+  joke:
+  - "On ne dit pas je suis paniqu\xE9, on dit je cherche un mec!"
+  - "On ne dit pas \"Le processus de paix est enclench\xE9\" mais \"Ouvrez les fen\xEAtres!\""
+  - "Pourquoi les ch'tis aiment la fin des vacances au camping? Car ils peuvent d\xE9monter
+    leur tente."
+  - "Qu'elle est la diff\xE9rence entre une bi\xE8re et les chasseurs? Les bi\xE8res,
+    on arrive \xE0 en faire sans alcool."
+  - Quel genre de melon donne du lait? Le mamelon.
+  - "Qu'elle est la diff\xE9rence entre la bi\xE8re et la pisse? Environ un quart
+    d'heure."
+  - "Ton p\xE8re travaille chez Nintendo, si j'en crois ton corps de DS."
+  - Si tu es ici qui s'occupe du paradis?
+  - "Les hommes c'est comme une vid\xE9o: avance, recule, avance, recule, stop, eject."
+  - "Quelle est la diff\xE9rence entre un mari et un amant? 10cm."
+  - Pourquoi les gays bougent tout le temps? Parce que les homozygotes.
+  - "Pourquoi Dieu a-t-il invent\xE9 l'alcool? Pour permettre aux mocher de baiser."
+  - "Tant que j'ai un visage, tu auras toujours un endroit o\xF9 t'assoire."
+  - "Que disent deux fesses quand elles se croisent? Alors \xE7a gaze?"
+  - "Qu'est-ce qu'une frite enceinte? Une patate saut\xE9."
+  - Comment s'appelle le cul de la Schtroumpfette? Le Blu-ray.
+  - Salut, je m'appelle Prince et je suis charmant! On m'a dit que tu me cherchais.
+  type: 0

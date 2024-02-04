@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfafdec8aa663724fb59a2308cd1c52a, type: 3}
+  m_Name: Carambar_Humor
+  m_EditorClassIdentifier: 
+  accessCat: Carambar
+  joke:
+  - Comment les abeilles communiquent-elles entre elles? Par e-miel.
+  - Que fait une fraise sur un cheval? Tagada tagada.
+  - "Comment appelle-t-on un British sympa? Une cr\xE8me anglaise."
+  - Que dit un escargot quand il croise une limace? Oh! Un naturiste!
+  - Que fait un crocodile quand il rencontre une superbe femelle? Il Lacoste.
+  - Qu'est-ce qu'un canif? Un petit fien.
+  - Qu'est-ce qui fait "toin toin"? Un tanard.
+  - "Pourquoi les poules traversent-elles la route? Pour passer de l'autre cot\xE9."
+  - Monsieur et Madame Bruni ont une fille, comment s'apelle t'elle? Carla.
+  - "Qui connait l'histoire de Toto aux toilettes? Personne, parce qu'il avait ferm\xE9
+    la porte \xE0 clef."
+  - Comment appelle-t-on un chien magicien? Un labracadabrador.
+  - "Qu'est-ce qu'un z\xE8bre dans un tunnel? Un z\xE8bre \xE0 moiti\xE9 cach\xE9!"
+  - Comment appelle-t-on un chat tout terrain? Un cat cat.
+  - Que fait un poussin de 200kg? PIOUUUUU PIOUUUUUUUU
+  - Qu'est-ce qui est rouge est mauvais pour les dents? Une brique.
+  - Pourquoi Mickey Mouse? Parce que Mario Bros.
+  - Qu'est-ce qui fait poin poin? Un panard.
+  - Qu'est-ce que une nif? La maison du fien.
+  - "Qu'est-ce qu'une carotte dans une flaque d'eau? Un bonhomme de neige en \xE9t\xE9."
+  - "Quel fruit porte toujours des sous-v\xEAtements? Les bananes \xE0 slip."
+  - Comment appelle-t-on un policier sur un tracteur? Un poulet fermier.
+  type: 2

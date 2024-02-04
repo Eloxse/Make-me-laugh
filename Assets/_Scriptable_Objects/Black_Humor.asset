@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfafdec8aa663724fb59a2308cd1c52a, type: 3}
+  m_Name: Black_Humor
+  m_EditorClassIdentifier: 
+  accessCat: Black
+  joke:
+  - Comment appelle-t-on un dinosaure homosexuel? Un Try-sarah-tops.
+  - "Qu'il y a-t'il de pire qu'un b\xE9b\xE9 dans une poubelle? Un b\xE9b\xE9 dans
+    deux poubelles."
+  - Qu'est-ce qui est bossu, sans bras, ni jambe? Une madelaine.
+  - "Quelle est la diff\xE9rence entre un homme et un b\xE9b\xE9? Le b\xE9b\xE9 au
+    moins ont peut le laisser avec la baby-sitter."
+  - "Comment fait-on pour rentrer douze belges dans un coffre de voiture? On jette
+    une frite \xE0 l'int\xE9rieur."
+  - "Comment les enfants de Tchernobyl comptent-ils jusqu'\xE0 33? Sur leur doigts."
+  - "Savez-vous pourquoi les h\xF4pitaux disposent de syst\xE8mes de climatisations?
+    Pour que les l\xE9gumes restent toujours au frais."
+  - "Quel est le l\xE9gume officiel de l'Allemagne? Michael Schumacher"
+  - "Mon grand-p\xE8re me dit souvent que je d\xE9pend trop de la technologie, j'ai
+    d\xE9branch\xE9 son respirateur artificiel."
+  - "Gr\xE2ce \xE0 quoi peut-on enlever le chewing-gum dans les cheveux? Le cancer."
+  - Qu'est-ce qui a deux pattes et saigne? Un demi-chien.
+  - "Pourquoi les \xE9colos aiment bien les l\xE9preux? Parce qu'ils sont bio d\xE9gradables."
+  - "Qu'est-ce qui est rose et qui tape au carreau? Un b\xE9b\xE9 dans un four micro-onde."
+  - "Dis papa, pourquoi m\xE9m\xE9 elle est toute froide? Tais-toi et creuse!"
+  - "Qu'est-ce qui est raide, qui sent mauvais et qui exite les femmes? Claude Fran\xE7ois."
+  - J'ai 40 boules et j'excite les vielles dames, qui suis-je? Le bingo.
+  - Tu connais l'histoire du pingouin qui respire par le cul? Un jour il s'assoit
+    et il meurt.
+  - J'ai un poisson qui peut faire du breakdance, mais seulement pendant 20 secondes
+    et juste une seule fois.
+  - Qu'est-ce qui est blanc et qui tombe pendant l'hiver? Les petits vieux.
+  - Quel est le point commun entre un juif et des chaussures? Il y en a plus en 39
+    qu'en 45.
+  - "A quel moment l'acn\xE9e devient-elle critique? Quand un aveugle arrive \xE0
+    lire sur ton visage."
+  type: 1
