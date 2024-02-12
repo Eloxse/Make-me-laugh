@@ -22,9 +22,6 @@ public class GameManager : MonoBehaviour
     [SerializeField] private int scoreValue = 10;
     [SerializeField] private AudioSource scoreSound;
 
-    [Header("ScoreRecap")]
-
-
     [Header("Game Over")]
     [SerializeField] private GameObject gameOverUI;
     [SerializeField] private GameObject clockSound;
